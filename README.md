@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-## Eu sou Cristiano Rocha
-- Moro em: brasil :,  Curitiba-Pr: house:
-- Estudante em Análise e Desenvolvime de Sistema: computer:
-- Tenho aprendido mais sobre JavaScript, HTML5, CSS3 :books::coffe::rocket:
+## I'm Cristiano Rocha
+- In live in: brazil :,  Curitiba-Pr: house:
+- Student in Systems Analysis and Development: computer:
+- I have learned more about JavaScript, HTML5, CSS3 :books::coffe::rocket:
 
 ### Conecte-se comigo:
 <a href="https://www.linkedin.com/in/cristianorocha-m/" target="_blank">
