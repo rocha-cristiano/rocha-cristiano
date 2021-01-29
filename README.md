@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Cristiano Rocha
+## Hi, I'm Cristiano Rocha, a passionate Front-end web developer.
 - In live in :Brazil:,  Curitiba-Pr :house:
 - Student in Systems Analysis and Development :computer: 
 - I have learned more about JavaScript, HTML5, CSS3 :books::coffee::rocket:
