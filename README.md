@@ -5,12 +5,13 @@
 - Student in Systems Analysis and Development :computer: 
 - I have learned more about JavaScript, HTML5,CSS3 :books::coffee::rocket:
 
-### Conecte-se comigo:
+### Connect with me:
 <a href="https://www.linkedin.com/in/cristianorocha-m/" target="_blank"> 
 <img align="center" alt="cristiano-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;"></a> 
 <a href="https://www.instagram.com/cristiiano_rocha/" target="_blank"> <img align="center" alt="cristiano-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;"></a>
 
-
+### My Skills
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
 
 <!--
