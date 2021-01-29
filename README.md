@@ -16,6 +16,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
+![cristiano github stats](https://github-readme-stats.vercel.app/api?username=rocha-cristiano&show_icons=true&count_private=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocha-cristiano&layout=compact)](https://github.com/anuraghazra/github-readme-Estatísticas)
 
 <!--
 **rocha-cristiano/rocha-cristiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
