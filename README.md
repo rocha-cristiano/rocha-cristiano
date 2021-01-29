@@ -11,6 +11,7 @@
 <a href="https://www.instagram.com/cristiiano_rocha/" target="_blank"> <img align="center" alt="cristiano-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;"></a>
 
 ### My Skills
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 
 <!--
 **rocha-cristiano/rocha-cristiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
