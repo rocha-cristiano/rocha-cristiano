@@ -3,7 +3,7 @@
 ## I'm Cristiano Rocha
 - In live in :Brazil:,  Curitiba-Pr :house:
 - Student in Systems Analysis and Development :computer: 
-- I have learned more about JavaScript, HTML5,CSS3 :books::coffee::rocket:
+- I have learned more about JavaScript, HTML5, CSS3 :books::coffee::rocket:
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/cristianorocha-m/" target="_blank"> 
